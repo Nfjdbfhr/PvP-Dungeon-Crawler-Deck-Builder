@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 180f295fbf34bc448a5e846669e7f979, type: 3}
+  m_Name: Torn Glyphs
+  m_EditorClassIdentifier: 
+  Name: Torn Glyph
+  Sprites:
+  - {fileID: 21300000, guid: 82bc00e29f627e843898ec4be4f2fc73, type: 3}
+  Rarity: 0
+  EnergyCost: 2
+  Functions:
+  - Effect: 2
+    Min: 1
+    Max: 1
